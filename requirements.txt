@@ -1,0 +1,18 @@
+# PhishBuster - Conceito B Requirements
+# Análise heurística completa de phishing
+
+# Framework Web
+flask==3.0.0
+flask-cors==4.0.0
+
+# Análise de URLs e Domínios
+python-Levenshtein==0.23.0
+python-whois==0.8.0
+dnspython==2.4.2
+
+# Análise Web (para URLs VALIDADAS como seguras)
+requests==2.31.0
+beautifulsoup4==4.12.2
+
+# Servidor
+gunicorn==21.2.0

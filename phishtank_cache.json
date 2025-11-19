@@ -1,0 +1,52 @@
+[
+  {
+    "phish_id": 8234567,
+    "url": "https://cpanelweb2039.weebly.com/",
+    "phish_detail_url": "http://www.phishtank.com/phish_detail.php?phish_id=8234567",
+    "submission_time": "2025-11-18T10:30:00+00:00",
+    "verified": "yes",
+    "verification_time": "2025-11-18T11:00:00+00:00",
+    "online": "yes",
+    "target": "cPanel"
+  },
+  {
+    "phish_id": 8234568,
+    "url": "https://ulys-securs.com/",
+    "phish_detail_url": "http://www.phishtank.com/phish_detail.php?phish_id=8234568",
+    "submission_time": "2025-11-17T14:20:00+00:00",
+    "verified": "yes",
+    "verification_time": "2025-11-17T15:00:00+00:00",
+    "online": "yes",
+    "target": "Security Services"
+  },
+  {
+    "phish_id": 8234569,
+    "url": "http://b0k8dq.sbs/sbn3xcyf/hC2dZi/",
+    "phish_detail_url": "http://www.phishtank.com/phish_detail.php?phish_id=8234569",
+    "submission_time": "2025-11-16T08:15:00+00:00",
+    "verified": "yes",
+    "verification_time": "2025-11-16T09:00:00+00:00",
+    "online": "yes",
+    "target": "Generic Phishing"
+  },
+  {
+    "phish_id": 8234570,
+    "url": "https://secure-login-verify.tk/account/update",
+    "phish_detail_url": "http://www.phishtank.com/phish_detail.php?phish_id=8234570",
+    "submission_time": "2025-11-18T09:00:00+00:00",
+    "verified": "yes",
+    "verification_time": "2025-11-18T09:30:00+00:00",
+    "online": "yes",
+    "target": "Banking"
+  },
+  {
+    "phish_id": 8234571,
+    "url": "https://paypal-security-update.ml/signin",
+    "phish_detail_url": "http://www.phishtank.com/phish_detail.php?phish_id=8234571",
+    "submission_time": "2025-11-17T16:45:00+00:00",
+    "verified": "yes",
+    "verification_time": "2025-11-17T17:15:00+00:00",
+    "online": "yes",
+    "target": "PayPal"
+  }
+]
